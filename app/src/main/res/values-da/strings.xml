@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShopList</string>
+
+    <!--Item creation/changing dialog -->
+    <string name="new_item_dialog_text">Tilføj ny vare</string>
+    <string name="ok">Okay</string>
+    <string name="delete">Slet</string>
+    <string name="item_title">Navn</string>
+    <string name="item_price">Pris</string>
+    <string name="item_store">Butik</string>
+
+    <!--running total -->
+    <string name="running_total">Nuværende total</string>
+
+    <!-- Drawer layout -->
+    <string name="drawer_header">Vis kun varer der:</string>
+    <string name="nav_all">Alle varer</string>
+    <string name="nav_checked">Valgte varer</string>
+    <string name="nav_unchecked">Ikke-valgte varer</string>
+    <string name="nav_store">Fra en forretning</string>
+
+    <!-- FilterStore dialog -->
+    <string name="filter_store_dialog_text">Indtast en forretning:</string>
+    <string name="cancel">Afbryd</string>
+
+    <!-- DelAllVis dialog -->
+    <string name="del_all_vis_dialog_text">Ønsker du at slette alle de viste varer?</string>
+    <string name="del_all_vis_dialog_text_explain">Dette vil slette dem permanent.</string>
+</resources>

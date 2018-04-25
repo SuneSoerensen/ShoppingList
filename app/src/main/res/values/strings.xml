@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ShopList</string>
+
+    <!--Item creation/changing dialog -->
+    <string name="new_item_dialog_text">Enter new item:</string>
+    <string name="ok">Okay</string>
+    <string name="delete">Delete</string>
+    <string name="item_title">Title</string>
+    <string name="item_price">Price</string>
+    <string name="item_store">Store</string>
+
+    <!--running total -->
+    <string name="running_total">Current total</string>
+
+    <!-- Drawer layout -->
+    <string name="drawer_header">Show only items that are:</string>
+    <string name="nav_all">All items</string>
+    <string name="nav_checked">Checked items</string>
+    <string name="nav_unchecked">Unchecked items</string>
+    <string name="nav_store">From a specific store</string>
+
+    <!-- FilterStore dialog -->
+    <string name="filter_store_dialog_text">Enter a store:</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- DelAllVis dialog -->
+    <string name="del_all_vis_dialog_text">Do you wish to delete all shown items?</string>
+    <string name="del_all_vis_dialog_text_explain">This will permanently delete the shown \nitems.</string>
+
+</resources>
